@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Solomon Bassey
+- 👀 I’m interested in learning and implementing new and relevant technologies...
+- 🌱 I’m currently learning Javascript and React JS
+- 💞️ I’m looking to collaborate on projects and be part of building exciting stuffs
+- 📫 How to reach me : solomonbassey20@gmail.com
